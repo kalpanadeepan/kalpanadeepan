@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @kalpanadeepan
-- 👀 I’m interested in ... Automation Testing(UI & API Testing)
-- 🌱 I’m currently learning ... Aws Certification--CCP
-- 💞️ I’m looking to collaborate on ... Automation Testing 
-- 📫 How to reach me ... [LinkedIn](linkedin.com/in/kalpana-selvaraj-8a8ab2193) Email Id- kalpanakalps1828@gmail.com
+                              Hi 👋, This is Kalpana Deepan
+A self-motivated Software Test Engineer having great enthusiasm towards software testing. I have a habit of researching, learning and implementing new tools with a goal of contributing back to software testing industry in every possible way. Highly passionate about Framework Architecture and Clean Code.
+ 
 
-<!---
-kalpanadeepan/kalpanadeepan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 I’m currently working on API Framework
+🌱 I’m currently learning  UI and API Automation
+👩🏻‍💻🏽‍💻 Programming languages
+         Java
+        Javascript
+😄 My Open Source Contribution:
+![close_icon](https://user-images.githubusercontent.com/107611764/186151346-573602a4-c3e6-4bd2-839e-bccea21d22ca.png)
+
+Crypto Wallet Metamask Automation Using Selenium with Python 
+📫 How to reach me
+
+Javeria - LinkedIn
+Javeria - Github Profile
+Projects
+Web Automation
+Page Object Model Selenium (Java, TestNG, Allure Reports)
+Keyword Driven Framework (Java, Selenium)
+Portal Automation (Java, TestNG)
+Portal Automation (Java, Cucumber, Extent Reports)
+Cypress Framework (Javascript)
+Mobile Automation
+Appium Framework (Java)
+API Automation
+-------------------------------------
+Languages and Tools:
+Selenium Jmeter docker git java jenkins mongodb postman
+
+javerianadeem
+
+ 
