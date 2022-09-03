@@ -4,22 +4,3 @@ A self-motivated Software Test Engineer having great enthusiasm towards software
 
 🔭 I’m currently working on API Framework
 🌱 I’m currently learning  UI and API Automation
-
-👩🏻‍💻🏽‍💻 Programming languages
-         Java
-        Javascript
-        
-📫 How to reach me
-Kalpana - LinkedIn
-Kalpana - Github Profile
-
-
-Projects
-
-Web Automation
-Page Object Model Selenium (Java, TestNG)
-Keyword Driven Framework (Java, Selenium)
-Portal Automation (Java, TestNG)
-Portal Automation (Java, Cucumber, Extent Reports)
-API Automation
--------------------------------------
